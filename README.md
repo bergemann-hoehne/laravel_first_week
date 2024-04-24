@@ -1,12 +1,12 @@
-## Laravel First-week Wochenprojekt
+# Laravel Wochenprojekt
 
 Aufgabenstellung: Nutzer- und Admin Bereich für eine Kommunikations Plattform
 Wir wollen in den Wochen des Laravel Projektes eine Anwendung Entwickeln, bei der sich Nutzer Registrieren udn anschließend Anmelden können um Posts zu erstellen, die von anderen Nutzer eingesehen, kommentierte, etc. werden können.
 
-# Ziel für die erste Woche
+## Ziel für die erste Woche
 Entwickle eine Webanwendung, die es Nutzern ermöglicht, sich zu registrieren, sich anzumelden und ihre Profile zu verwalten. Zusätzlich soll ein Admin-Bereich vorhanden sein, in dem Administratoren Nutzerdaten einsehen und bearbeiten können.
 
-# Funktionen
+### Funktionen
 1. Registrierung und Anmeldung
 - Nutzer können sich mit einer E-Mail-Adresse und einem Passwort registrieren.
 - Nach der Registrierung können sie sich mit ihren Anmeldeinformationen anmelden.
